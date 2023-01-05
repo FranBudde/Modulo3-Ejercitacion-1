@@ -1,0 +1,27 @@
+VALORES DE LA METODOLODIA AGIL :
+La metodología ágil como la conocemos en la actualidad nació en el año 2001.
+En respuesta a los enfoques en cascada de la gestión de proyectos,
+en los cuales estos se organizan como series de secuencias lineales,
+un grupo de desarrolladores de software redactó el Manifiesto para el desarrollo ágil de software.
+En este documento, los programadores propusieron un nuevo enfoque para el desarrollo de software
+y describieron cuatro características fundamentales que deberían priorizarse por encima de otras
+ cuestiones. De acuerdo con lo que establecieron,
+  los equipos de desarrollo ágil de software debían valorar:
+
+Las personas y las interacciones -> antes que los procesos y las herramientas.
+El software en funcionamiento -> antes que la documentación exhaustiva.
+La colaboración con el cliente -> antes que la negociación contractual.
+La respuesta ante el cambio -> antes que el apego a un plan.
+Los autores aclaran que todos los puntos de la lista anterior tienen cierto valor inherente.
+Sin embargo, proponen que valorar los puntos de la izquierda (en negrita)
+antes que los de la derecha puede dar lugar a mejores resultados en el desarrollo del producto. 
+El manifiesto no busca imponer un conjunto de prácticas, sino ser una guía que permita pensar
+ en el desarrollo de software de otra manera.
+
+Gracias a este manifiesto, se han obtenido varios resultados prácticos.
+Por ejemplo, en lugar de desarrollar sistemas de software en una secuencia que va de una fase
+a la siguiente (que es como el método cascada garantiza la calidad de un producto),
+el método ágil promueve que los procesos de desarrollo y prueba sean simultáneos y constantes.
+Dicho de otra forma, en el desarrollo en cascada, una fase debe finalizarse por completo 
+antes de poder pasar a la siguiente; el desarrollo ágil, por otro lado, permite que varias 
+secuencias sucedan al mismo tiempo. 
