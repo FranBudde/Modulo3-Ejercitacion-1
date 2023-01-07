@@ -1,0 +1,13 @@
+Git es un software de control de versiones diseñado para gestionar grandes proyectos de software, con un enfoque en la velocidad y la eficiencia. A continuación, te presento una lista de algunos de los comandos más comunes de Git y una descripción de lo que hace cada uno:
+
+git init: Inicializa un nuevo repositorio Git en el directorio actual.
+git clone: Crea una copia local de un repositorio que ya existe en otra ubicación.
+git add: Agrega archivos al área de preparación (stage) para que puedan ser incluidos en la próxima confirmación (commit).
+git commit: Graba los cambios en el repositorio local.
+git push: Envía los cambios del repositorio local al repositorio remoto.
+git pull: Obtiene los últimos cambios del repositorio remoto y los fusiona con el repositorio local.
+git branch: Lista, crea o elimina ramas (branches).
+git checkout: Cambia entre ramas o restaura archivos.
+git merge: Fusiona dos ramas juntas.
+git log: Muestra el historial de confirmaciones (commits).
+git status: Muestra el estado actual del repositorio.
